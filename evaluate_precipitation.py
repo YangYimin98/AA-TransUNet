@@ -1,4 +1,4 @@
-"""metrics.py"""
+"""evaluate_precipitation.py"""
 
 """
 Author: Yimin Yang
@@ -16,7 +16,7 @@ from Models.AA_TransUNet import AA_TransUnet
 from Precipitation_Forecasting.precipitation_dataset import precipitation_maps_oversampled_h5
 
 
-def get_model_loss(model, test_dl, loss="mse", denormalize=True):
+def compute_loss(model, test_dl, loss="mse", denormalize=True):
     model.eval()  # or model.freeze()?
     model.to("cuda")
     if loss.lower() == "mse":
@@ -70,10 +70,8 @@ def get_model_loss(model, test_dl, loss="mse", denormalize=True):
     return np.array(loss_model.cpu()), precision, recall, accuracy, f1, csi, far, hss
 
 
-def get_model_losses(model_folder, data_file, loss, denormalize):
+def evaluate(model_folder, data_file, loss, denormalize):
     test_losses = dict()
-
-    models = [m for m in os.listdir(model_folder) if ".ckpt" in m]
     dataset = precipitation_maps_oversampled_h5(
         in_file=data_file,
         num_input_images=12,
@@ -167,10 +165,10 @@ if __name__ == '__main__':
     loss = "mse"
     denormalize = True
     model_folder = 'AA_TransUNet'
-    data_file = 'AA_TransUNet/dataset/train_test_2016-2019_input-length_12_img-ahead_6_rain-threshhold_50.h5'
+    data_file = 'AA_TransUNet/dataset/train_test_2016-2019_input-length_12_img-ahead_6_rain-threshhold_20.h5'
 
-    # This changes whether to load or to run the model loss calculation
-    load = False
+    load = False  # This changes whether to load or to run the model loss calculation
+
     # print_persistent_metrics(data_file)
     if load:
         # load the losses
