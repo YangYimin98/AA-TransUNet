@@ -23,7 +23,16 @@ Training precipitation maps dataset:
 
     python train_precipitation.py
     
-Training precipitation maps dataset:
+Training cloud cover dataset:
 
     python train_cloud_cover.py
- 
+
+After training or loading pre-trained models, you can evaluate model's performance by:
+
+Evaluating precipitation maps dataset:
+
+    python evaluate_precipitation.py
+    
+Evaluating cloud cover dataset:
+
+    python evaluate_cloud_cover.py
