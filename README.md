@@ -14,3 +14,11 @@ yimin.yang@student.maastrichtuniversity.nl
 siamak.mehrkanoon@maastrichtuniversity.nl
 
 Please put the dataset into "\dataset" directory for training and testing, and put the pre-trained models into "\results\Model_Saved" directory for future loading.
+
+Usages
+---
+
+Required Dependencies:
+
+pip install -r requirements.txt
+
