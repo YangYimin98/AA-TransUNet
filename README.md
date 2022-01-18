@@ -9,9 +9,9 @@ Dataset & pre-trained models
 ---
 If you are interesed in the dataset(precipitation maps & cloud cover dataset) used in this paper or the pre-trained AA_TransUNet models, please contact us:
 
-  yimin.yang@student.maastrichtuniversity.nl
-
-  siamak.mehrkanoon@maastrichtuniversity.nl
+    yimin.yang@student.maastrichtuniversity.nl
+or
+    siamak.mehrkanoon@maastrichtuniversity.nl
 
 Please put the dataset into "\dataset" directory for training and testing, and put the pre-trained models into "\results\Model_Saved" directory for future loading.
 
@@ -19,6 +19,5 @@ Usages
 ---
 
 Required Dependencies:
-
-  pip install -r requirements.txt
+    pip install -r requirements.txt
 
