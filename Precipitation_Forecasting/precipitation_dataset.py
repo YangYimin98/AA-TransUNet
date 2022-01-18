@@ -3,7 +3,7 @@
 """
 Author: Yimin Yang
 Last revision date: Jan 18, 2022
-Function: dataloader
+Function: dataloader for precipatation maps dataset
 """
 
 from torch.utils.data import Dataset

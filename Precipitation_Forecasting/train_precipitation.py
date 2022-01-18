@@ -3,7 +3,7 @@
 """
 Author: Yimin Yang
 Last revision date: Jan 18, 2022
-Function: Run this to train the model
+Function: Run this to train the model on precipitation maps dataset
 """
 
 import torch
