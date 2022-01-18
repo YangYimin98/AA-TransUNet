@@ -1,3 +1,10 @@
+"""evaluate_cloud_cover.py"""
+
+"""
+Author: Yimin Yang
+Last revision date: Jan 18, 2022
+Function: Run this to evaluate the trained model
+"""
 import torch
 from torch import nn
 import numpy as np

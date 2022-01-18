@@ -3,7 +3,7 @@
 """
 Author: Yimin Yang
 Last revision date: Jan 18, 2022
-Function: Calculate the metrics
+Function: Run this to evaluate the trained model
 """
 
 import torch
