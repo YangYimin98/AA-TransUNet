@@ -9,7 +9,6 @@ Function: Encoder of AA_TransUNet
 
 from einops import rearrange
 from utils import *
-from self_attention_cv import TransformerEncoder
 
 
 class ViT(nn.Module):
