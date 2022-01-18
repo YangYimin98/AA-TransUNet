@@ -44,7 +44,7 @@ def evaluate(data_file, model_folder, loss):
 
     # load the models
 
-    model_name = 'TransUnet'
+    model_name = 'AA_TransUNet'
     model = AA_TransUnet.load_from_checkpoint(
         '/AA_TransUNet/results/Model_Saved/T21_CBAM_end_100.ckpt')
     model_loss = get_model_loss(model, test_dl, loss)
