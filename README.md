@@ -44,4 +44,7 @@ For easier training, we also provide a colab demo:
 Reference
 ---
 
-* 
+* [TransUNet](https://github.com/Beckschen/TransUNet)
+* [self-attention-cv](https://github.com/The-AI-Summer/self-attention-cv)
+* [ViT-pytorch](https://github.com/jeonsworld/ViT-pytorch)
+* [SmaAt-UNet](https://github.com/HansBambel/SmaAt-UNet)
