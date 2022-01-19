@@ -48,3 +48,9 @@ Reference
 * [self-attention-cv](https://github.com/The-AI-Summer/self-attention-cv)
 * [ViT-pytorch](https://github.com/jeonsworld/ViT-pytorch)
 * [SmaAt-UNet](https://github.com/HansBambel/SmaAt-UNet)
+
+Contact
+---
+
+* Yimin Yang: yimin.yang@student.maastrichtuniversity.nl 
+* Siamak Mehrkanoon: siamak.mehrkanoon@maastrichtuniversity.nl
