@@ -39,7 +39,7 @@ Evaluating cloud cover dataset:
  
 For easier training, we also provide a colab demo:
 
-[Colab training demo for cloud cover dataset.](https://github.com/YangYimin98/AA-TransUNet/blob/main/AA_TransUNet_Demo.ipynb)
+    [Colab training demo for cloud cover dataset.](https://github.com/YangYimin98/AA-TransUNet/blob/main/AA_TransUNet_Demo.ipynb)
 
 Reference
 ---
