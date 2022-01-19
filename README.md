@@ -49,7 +49,7 @@ Reference
 * [ViT-pytorch](https://github.com/jeonsworld/ViT-pytorch)
 * [SmaAt-UNet](https://github.com/HansBambel/SmaAt-UNet)
 
-Contact
+Authors
 ---
 
 * Yimin Yang: yimin.yang@student.maastrichtuniversity.nl 
