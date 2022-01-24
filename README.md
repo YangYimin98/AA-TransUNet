@@ -7,7 +7,10 @@ AA-TransUNet: Attention Augmented TransUNet For Nowcasting Tasks.
 
 Datasets & Pre-trained Models
 ---
-If you are interesed in the dataset(precipitation maps & cloud cover dataset) used in this paper or the pre-trained AA_TransUNet models, please contact us:
+If you are interesed in the dataset(precipitation maps & cloud cover dataset) used in this paper， please visit![SmaAt
+-TransUNet](https://github.com/HansBambel/SmaAt-UNet) for further details.
+
+For the pre-trained AA_TransUNet models, please contact us:
     yimin.yang@student.maastrichtuniversity.nl or siamak.mehrkanoon@maastrichtuniversity.nl
 
 Please put the dataset into "\dataset" directory for training and testing, and put the pre-trained models into "\results\Model_Saved" directory for future loading.
