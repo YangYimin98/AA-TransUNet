@@ -3,7 +3,7 @@ AA-TransUNet: Attention Augmented TransUNet For Nowcasting Tasks.
 
 [AA_TransUNet](https://github.com/YangYimin98/AA-TransUNet/blob/main/model.pdf) Architecture.
 ---
-![AA_TransUNet](model.pdf)
+![AA_TransUNet](https://github.com/YangYimin98/AA-TransUNet/blob/main/model.png)
 
 Datasets & Pre-trained Models
 ---
