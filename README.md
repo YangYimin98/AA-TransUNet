@@ -43,13 +43,6 @@ For easier training, we also provide a colab demo:
 
    [Colab training demo for cloud cover dataset.](https://github.com/YangYimin98/AA-TransUNet/blob/main/AA_TransUNet_Training_Demo_Cloud_Cover.ipynb)
 
-References
----
-
-* [TransUNet](https://github.com/Beckschen/TransUNet)
-* [self-attention-cv](https://github.com/The-AI-Summer/self-attention-cv)
-* [ViT-pytorch](https://github.com/jeonsworld/ViT-pytorch)
-* [SmaAt-UNet](https://github.com/HansBambel/SmaAt-UNet)
 
 Authors
 ---
