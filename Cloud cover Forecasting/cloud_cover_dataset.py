@@ -4,6 +4,8 @@
 Author: Yimin Yang
 Last revision date: Jan 18, 2022
 Function: dataloader for cloud cover dataset
+Ref: https://github.com/HansBambel/SmaAt-UNet
+
 """
 import os
 from torch.utils.data import Dataset
