@@ -4,6 +4,8 @@
 Author: Yimin Yang
 Last revision date: Jan 18, 2022
 Function: dataloader for precipatation maps dataset
+Ref: https://github.com/HansBambel/SmaAt-UNet
+
 """
 
 from torch.utils.data import Dataset
