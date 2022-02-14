@@ -1,4 +1,4 @@
-AA-TransUNet: Attention Augmented TransUNet For Nowcasting Tasks.
+AA-TransUNet: [Attention Augmented TransUNet For Nowcasting Tasks](https://arxiv.org/abs/2202.04996).
 ---
 
 [AA_TransUNet](https://github.com/YangYimin98/AA-TransUNet/blob/main/model.eps) Architecture.
