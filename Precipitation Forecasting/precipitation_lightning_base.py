@@ -4,6 +4,8 @@
 Author: Yimin Yang
 Last revision date: Jan 18, 2022
 Function: precipitation maps dataloader for training sets, test sets and validation sets
+Ref: https://github.com/HansBambel/SmaAt-UNet
+
 """
 import torch
 from torch.utils.data import SubsetRandomSampler
