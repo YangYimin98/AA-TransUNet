@@ -4,6 +4,7 @@
 Author: Yimin Yang
 Last revision date: Jan 18, 2022
 Function: Run this to evaluate the trained model
+Ref: https://github.com/HansBambel/SmaAt-UNet
 """
 import torch
 from torch import nn
