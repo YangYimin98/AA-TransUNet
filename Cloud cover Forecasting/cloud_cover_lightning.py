@@ -4,6 +4,8 @@
 Author: Yimin Yang
 Last revision date: Jan 18, 2022
 Function: Essential TransUnet_base for using pytorch_lightning
+Ref: https://github.com/HansBambel/SmaAt-UNet
+
 """
 from torch import nn, optim
 import torch.nn.functional
