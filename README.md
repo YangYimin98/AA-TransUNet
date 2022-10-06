@@ -52,11 +52,9 @@ Authors
 
 Citation
 ---
-    @misc{yang2022aatransunet,
-      title={AA-TransUNet: Attention Augmented TransUNet For Nowcasting Tasks}, 
-      author={Yimin Yang and Siamak Mehrkanoon},
-      year={2022},
-      eprint={2202.04996},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
-    }
+@article{yang2022aa,
+  title={Aa-transunet: Attention augmented transunet for nowcasting tasks},
+  author={Yang, Yimin and Mehrkanoon, Siamak},
+  journal={arXiv preprint arXiv:2202.04996},
+  year={2022}
+}
