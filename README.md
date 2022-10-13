@@ -3,7 +3,7 @@ AA-TransUNet: [Attention Augmented TransUNet For Nowcasting Tasks](https://arxiv
 
 [AA_TransUNet](https://github.com/YangYimin98/AA-TransUNet/blob/main/model.eps) Architecture.
 ---
-[AA_TransUNet](https://github.com/YangYimin98/AA-TransUNet/blob/main/model.png)
+![AA_TransUNet](https://github.com/YangYimin98/AA-TransUNet/blob/main/model.png)
 
 Datasets & Pre-trained Models
 ---
