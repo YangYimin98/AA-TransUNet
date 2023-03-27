@@ -53,10 +53,10 @@ Authors
 Citation
 ---
  @inproceedings{yang2022aa,
-  title={Aa-transunet: Attention augmented transunet for nowcasting tasks},
-  author={Yang, Yimin and Mehrkanoon, Siamak},
-  booktitle={2022 International Joint Conference on Neural Networks (IJCNN)},
-  pages={01--08},
-  year={2022},
-  organization={IEEE}
+  title={Aa-transunet: Attention augmented transunet for nowcasting tasks},  
+  author={Yang, Yimin and Mehrkanoon, Siamak},  
+  booktitle={2022 International Joint Conference on Neural Networks (IJCNN)},  
+  pages={01--08},  
+  year={2022},  
+  organization={IEEE}  
 }
